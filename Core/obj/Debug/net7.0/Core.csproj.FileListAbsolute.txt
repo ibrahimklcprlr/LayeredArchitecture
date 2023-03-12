@@ -1,0 +1,12 @@
+C:\Users\ibrahim\source\repos\Example\Core2\bin\Debug\net7.0\Core.deps.json
+C:\Users\ibrahim\source\repos\Example\Core2\bin\Debug\net7.0\Core.dll
+C:\Users\ibrahim\source\repos\Example\Core2\bin\Debug\net7.0\Core.pdb
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.dll
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\refint\Core.dll
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\Core.pdb
+C:\Users\ibrahim\source\repos\Example\Core2\obj\Debug\net7.0\ref\Core.dll
